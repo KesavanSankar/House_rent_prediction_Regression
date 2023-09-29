@@ -50,10 +50,5 @@ I explored various regression models and optimization techniques to improve pred
 
 ## Conclusion
 
-This Data Science Challenge journey has been an incredible learning experience. Starting with a basic Linear Regression model and gradually incorporating feature engineering and advanced regression techniques, we achieved a remarkable accuracy of 99% in predicting house rent prices.
+This Data Science Challenge journey has been an incredible learning experience. Starting with a basic Linear Regression model and gradually incorporating feature engineering and advanced regression techniques, we achieved a remarkable accuracy .
 
-Stay tuned for more updates as I continue to explore the fascinating world of Data Science in my #50DaysLearningFullStackDataScience!
-
-For the full code and detailed analysis, check out my GitHub repository [here](insert_github_link_here).
-
-Happy Data Science-ing! 🚀📊
